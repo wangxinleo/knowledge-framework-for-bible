@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe98522e-6fbf-4174-9ef7-67900948b461" name="默认的" comment="第一版主页">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/book/Genesis.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/book/Genesis.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/plan/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/plan/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="fe98522e-6fbf-4174-9ef7-67900948b461" name="默认的" comment="开源项目网站V0.0.1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,7 +121,7 @@
       <workItem from="1608271890716" duration="1077000" />
       <workItem from="1608272986349" duration="36000" />
       <workItem from="1608273520613" duration="217000" />
-      <workItem from="1608273745412" duration="3775000" />
+      <workItem from="1608273745412" duration="4081000" />
     </task>
     <task id="LOCAL-00001" summary="删除部分无用内容">
       <created>1608272207470</created>
@@ -149,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608275276381</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="开源项目网站V0.0.1">
+      <created>1608277667801</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608277667801</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,6 +200,7 @@
     <MESSAGE value="删除部分无用内容" />
     <MESSAGE value="修改README.md" />
     <MESSAGE value="第一版主页" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一版主页" />
+    <MESSAGE value="开源项目网站V0.0.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="开源项目网站V0.0.1" />
   </component>
 </project>

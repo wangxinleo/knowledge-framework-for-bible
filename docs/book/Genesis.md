@@ -18,8 +18,7 @@
 
  - 大图浏览 
 
-![](/mind/old/Genesis/创世纪.png)
-
+<img :src="$withBase('/mind/old/Genesis/创世纪.png')">
 
 ## 知识点索引
 ```js
