@@ -1,0 +1,20 @@
+{
+  "name": "knowledge-framework-for-bible",
+  "version": "0.0.1",
+  "description": "Powerful offline Bible Study tool",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/wangxin_leo/knowledge-framework-for-bible.git"
+  },
+  "author": "",
+  "license": "CC-BY-NC-SA-4.0",
+  "devDependencies": {
+    "vuepress": "^1.7.1"
+  },
+  "dependencies": {}
+}

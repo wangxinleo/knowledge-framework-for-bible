@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fe98522e-6fbf-4174-9ef7-67900948b461" name="默认的" comment="">
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/enhanceApp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/holy-bible.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/invitation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/issue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/issue2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/stemp1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/stemp2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/stemp3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/stemp4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/timg.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/wecode2014.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/mind/old/Genesis/创世纪.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/mind/old/Genesis/创世纪.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/book/Exodus.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/book/Genesis.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/book/Leviticus.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/book/Numbers.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/book/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/desc/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/list/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/plan/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/plan/guide.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/plan/standard.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ljYCFgzCCi4AcPvL5rLyrJSm6S" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/.vuepress/public/mind" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Shelf.Project.Settings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\WZ\WebstormProjects\knowledge-framework-for-bible\docs\.vuepress\public\mind" />
+      <recent name="C:\Users\WZ\WebstormProjects\knowledge-framework-for-bible\docs\.vuepress\public\img" />
+      <recent name="C:\Users\WZ\WebstormProjects\knowledge-framework-for-bible\docs\.vuepress\public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\WZ\WebstormProjects\knowledge-framework-for-bible\docs\.vuepress\public\mind\old" />
+      <recent name="C:\Users\WZ\WebstormProjects\knowledge-framework-for-bible\docs\.vuepress\public\mind\Genesis" />
+      <recent name="C:\Users\WZ\WebstormProjects\knowledge-framework-for-bible\docs\plan" />
+      <recent name="C:\Users\WZ\WebstormProjects\knowledge-framework-for-bible\docs\plan\standard" />
+      <recent name="C:\Users\WZ\WebstormProjects\knowledge-framework-for-bible\docs\plan\guide" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="fe98522e-6fbf-4174-9ef7-67900948b461" name="默认的" comment="" />
+      <created>1608111838696</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608111838696</updated>
+      <workItem from="1608111841440" duration="56000" />
+      <workItem from="1608111912062" duration="236000" />
+      <workItem from="1608164651062" duration="3127000" />
+      <workItem from="1608168521328" duration="1902000" />
+      <workItem from="1608170666398" duration="1677000" />
+      <workItem from="1608173191038" duration="1375000" />
+      <workItem from="1608174648290" duration="4398000" />
+      <workItem from="1608184638142" duration="566000" />
+      <workItem from="1608185237879" duration="2648000" />
+      <workItem from="1608188378118" duration="2204000" />
+      <workItem from="1608190621463" duration="834000" />
+      <workItem from="1608191613811" duration="1991000" />
+      <workItem from="1608193869811" duration="2139000" />
+      <workItem from="1608196222790" duration="1414000" />
+      <workItem from="1608201034281" duration="4680000" />
+      <workItem from="1608205801392" duration="1053000" />
+      <workItem from="1608206912873" duration="273000" />
+      <workItem from="1608251197822" duration="811000" />
+      <workItem from="1608253801666" duration="7826000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
