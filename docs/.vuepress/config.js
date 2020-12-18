@@ -1,6 +1,7 @@
 module.exports = {
     title: '圣经脑图',
     description: 'Powerful offline Bible Study tool',
+    base:'/knowledge-framework-for-bible/',
     plugins: [
         [
             'vuepress-plugin-comment',
