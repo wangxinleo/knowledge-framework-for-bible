@@ -4,32 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe98522e-6fbf-4174-9ef7-67900948b461" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/enhanceApp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/holy-bible.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/invitation.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/issue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/issue2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/stemp1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/stemp2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/stemp3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/stemp4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/timg.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/wecode2014.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/mind/old/Genesis/创世纪.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/mind/old/Genesis/创世纪.xmind" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/book/Exodus.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/book/Genesis.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/book/Leviticus.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/book/Numbers.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/book/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/desc/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/list/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/plan/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/plan/guide.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/plan/standard.md" afterDir="false" />
+    <list default="true" id="fe98522e-6fbf-4174-9ef7-67900948b461" name="默认的" comment="删除部分无用内容">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +22,24 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/blog" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="blog" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ljYCFgzCCi4AcPvL5rLyrJSm6S" />
@@ -57,7 +52,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/.vuepress/public/mind" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -65,7 +60,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="Shelf.Project.Settings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -126,7 +121,18 @@
       <workItem from="1608206912873" duration="273000" />
       <workItem from="1608251197822" duration="811000" />
       <workItem from="1608253801666" duration="7826000" />
+      <workItem from="1608271890716" duration="1077000" />
+      <workItem from="1608272986349" duration="36000" />
+      <workItem from="1608273520613" duration="217000" />
     </task>
+    <task id="LOCAL-00001" summary="删除部分无用内容">
+      <created>1608272207470</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608272207470</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,11 +143,42 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="blog" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="blog" />
+                </option>
+              </RecentGroup>
+            </list>
           </value>
         </entry>
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="删除部分无用内容" />
+    <option name="LAST_COMMIT_MESSAGE" value="删除部分无用内容" />
   </component>
 </project>
