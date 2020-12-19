@@ -32,10 +32,10 @@ module.exports = {
                     title: '旧约圣经',
                     displayAllHeaders: true,
                     children: [
-                        ['/book/Genesis.md', '创世纪(demo)'],
-                        ['/book/Exodus.md', '出埃及记(demo)'],
-                        ['/book/Leviticus.md', '利未记(demo)'],
-                        ['/book/Numbers.md', '民数记(demo)']
+                        ['/book/Genesis.md', '创世纪'],
+                        ['/book/Exodus.md', '出埃及记'],
+                        ['/book/Leviticus.md', '利未记'],
+                        ['/book/Numbers.md', '民数记']
                     ]
                 },
             ],

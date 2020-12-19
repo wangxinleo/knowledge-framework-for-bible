@@ -1,15 +1,26 @@
 
 # 目录
+
+::: warning 这个目录是干嘛的？
+
+如果你感到迷惑的话，请先阅读以下文档噢！
+
+  [>>> 编写计划 <<<](/plan/) 
+
+  [>>> 编写指南 <<<](/plan/guide.md) 
+
+:::
+
 ## 第1部分--旧约圣经
 
 
 | 书卷     | 已建立仓储库 | 作品提交地址     | 编辑认领地址 |
 | -------- | ------------ | -------- | -------- |
 | 创世纪 |√| [📁点此进入](https://gitee.com/wangxin_leo/knowledge-framework-for-bible/tree/master/旧约圣经/创世纪) | [🙋我要认领](https://gitee.com/wangxin_leo/knowledge-framework-for-bible/issues/I29RO6) |
-| 出埃及记 | √ | [📁点此进入](https://gitee.com/wangxin_leo/knowledge-framework-for-bible/tree/master/旧约圣经/出埃及记) | [🙋我要认领]() |
-| 利未记 | √ | [📁点此进入](https://gitee.com/wangxin_leo/knowledge-framework-for-bible/tree/master/旧约圣经/利未记) | [🙋我要认领]() |
-| 民数记 | √ | [📁点此进入](https://gitee.com/wangxin_leo/knowledge-framework-for-bible/tree/master/旧约圣经/民数记) | [🙋我要认领]() |
-| 申命记 | √ | [📁点此进入](https://gitee.com/wangxin_leo/knowledge-framework-for-bible/tree/master/旧约圣经/申命记) | [🙋我要认领]() |
+| 出埃及记 | √ | [📁点此进入](https://gitee.com/wangxin_leo/knowledge-framework-for-bible/tree/master/旧约圣经/出埃及记) | [🙋我要认领](https://gitee.com/wangxin_leo/knowledge-framework-for-bible/issues/I2A0KV) |
+| 利未记 | √ | [📁点此进入](https://gitee.com/wangxin_leo/knowledge-framework-for-bible/tree/master/旧约圣经/利未记) | [🙋我要认领](https://gitee.com/wangxin_leo/knowledge-framework-for-bible/issues/I2A0L3) |
+| 民数记 | √ | [📁点此进入](https://gitee.com/wangxin_leo/knowledge-framework-for-bible/tree/master/旧约圣经/民数记) | [🙋我要认领](https://gitee.com/wangxin_leo/knowledge-framework-for-bible/issues/I2A0L6) |
+| 申命记 | √ | [📁点此进入](https://gitee.com/wangxin_leo/knowledge-framework-for-bible/tree/master/旧约圣经/申命记) | [🙋我要认领](https://gitee.com/wangxin_leo/knowledge-framework-for-bible/issues/I2A0LA) |
 | 约书亚记 | √ | [📁点此进入](https://gitee.com/wangxin_leo/knowledge-framework-for-bible/tree/master/旧约圣经/约书亚记) | [🙋我要认领]() |
 | 士师记 | √ | [📁点此进入](https://gitee.com/wangxin_leo/knowledge-framework-for-bible/tree/master/旧约圣经/士师记) | [🙋我要认领]() |
 | 路得记 | √ | [📁点此进入](https://gitee.com/wangxin_leo/knowledge-framework-for-bible/tree/master/旧约圣经/路得记) | [🙋我要认领]() |

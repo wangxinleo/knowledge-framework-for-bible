@@ -35,17 +35,33 @@
    <img :src="$withBase('/img/invitation.png')">
 
 2. 从目录中选择自己想要参与编写的部分后，前往 [Issue 页面](https://gitee.com/wangxin_leo/knowledge-framework-for-bible/issues) 进行内容认领。
+
+   <img :src="$withBase('/img/stemp6.png')">
    
-3. 选择自己想要认领的内容部分，对该 Issue 进行评论，评论内容为 **「作者姓名+预计完成时间+备注」** ，如 **「leo，预计 1 月 18 日完成部分内容」** ，收到用户名为「wangxinleo」的账号回复 **「已确认」** 后，代表你就可以开始编写工作，该 Issue 会被移至 **「编写中」** 状态。
+3. 选择自己想要认领的内容部分，对该 Issue 进行评论，评论内容为 **「作者姓名+预计完成时间+备注」** ，如 **「leo，预计 1 月 18 日完成部分内容」** ，收到用户名为 **「wangxinleo」** 的账号回复 **「已确认」** 后，代表你就可以开始编写工作，该 Issue 会被移至 **「编写中」** 状态。
    
    <img :src="$withBase('/img/issue2.png')">
 
-4. 完成编写后，选择仓库中对应部分的文件夹进行 **[轻量级 PR](https://gitee.com/help/articles/4291)** ，将编辑好的*.xmind文件或*.md文档以，审查团队将会对内容进行格式规范初审，通过后将会对 PR 进行合并，并发布你的作品，对应 Issue 进入 **「需补充」** 或 **「已完成」** 状态。
+4. 确认领取后，可以到网站 [目录](/list/) 进入相应的文件夹。完成编写后，选择仓库中对应部分的文件夹进行 **[轻量级 PR](https://gitee.com/help/articles/4291)** ，将编辑好的*.xmind文件或*.md文档以，审查团队将会对内容进行格式规范初审，通过后将会对 PR 进行合并，并发布你的作品，对应 Issue 进入 **「需补充」** 或 **「已完成」** 状态。
    
+   **如何找到提交文档的地方？**
+   
+   - 方式一
+   <img :src="$withBase('/img/stemp5.png')">
+
+   - 方式二
    <img :src="$withBase('/img/stemp1.png')">
+
    <img :src="$withBase('/img/stemp2.png')">
+   
+   
+   **如何提交文档？**
+   
    <img :src="$withBase('/img/stemp3.png')">
+
    <img :src="$withBase('/img/stemp4.png')">
+   
+   
 
    
 5. 审校专家团队会对 **「已完成」** 的内容进行内容正确性复审，通过后该内容对应 Issue 进入 **「已通过」** 状态，代表该部分内容已确认收录进《圣经脑图》中。

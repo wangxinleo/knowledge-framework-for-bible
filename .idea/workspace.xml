@@ -4,40 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe98522e-6fbf-4174-9ef7-67900948b461" name="默认的" comment="修正readme的已知错误">
+    <list default="true" id="fe98522e-6fbf-4174-9ef7-67900948b461" name="默认的" comment="项目list变更">
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/stemp5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/stemp6.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/css/0.styles.c77c766b.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/10.cc0b2f99.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/11.74e42fa1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/12.7c3bdf0a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/13.294d8a32.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/14.4fcfe5a3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/15.3ff7438a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/16.151fd5ce.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/17.e8fd5ef1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/2.53bf1d1a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/3.1923dd79.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/4.0b27016f.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/5.e37e5237.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/6.cd629e2f.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/7.e7d6408c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/8.bde7a3da.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/9.eafb6ed3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/app.2a720438.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/book/Exodus.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/book/Exodus.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/book/Genesis.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/book/Genesis.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/book/Leviticus.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/book/Leviticus.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/book/Numbers.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/book/Numbers.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/book/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/book/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/desc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/desc/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/list/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/list/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/plan/guide.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/plan/guide.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/plan/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/plan/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/plan/standard.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/plan/standard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/img/issue2.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/issue2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/list/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/list/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/plan/guide.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/plan/guide.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +58,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/.vuepress/public/img" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -96,6 +71,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\knowledge-framework-for-bible-blog\docs\.vuepress\public\img" />
       <recent name="C:\Users\WZ\WebstormProjects\knowledge-framework-for-bible\docs\.vuepress\public\mind" />
       <recent name="C:\Users\WZ\WebstormProjects\knowledge-framework-for-bible\docs\.vuepress\public\img" />
       <recent name="C:\Users\WZ\WebstormProjects\knowledge-framework-for-bible\docs\.vuepress\public" />
@@ -156,7 +132,8 @@
       <workItem from="1608272986349" duration="36000" />
       <workItem from="1608273520613" duration="217000" />
       <workItem from="1608273745412" duration="6510000" />
-      <workItem from="1608281796517" duration="2207000" />
+      <workItem from="1608281796517" duration="2357000" />
+      <workItem from="1608342660084" duration="4220000" />
     </task>
     <task id="LOCAL-00001" summary="删除部分无用内容">
       <created>1608272207470</created>
@@ -200,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608279116198</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="项目list变更">
+      <created>1608284061477</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1608284061477</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -252,6 +236,7 @@
     <MESSAGE value="开源项目网站V0.0.1" />
     <MESSAGE value="开源项目网站V0.0.2 &#10;修正图片链接" />
     <MESSAGE value="修正readme的已知错误" />
-    <option name="LAST_COMMIT_MESSAGE" value="修正readme的已知错误" />
+    <MESSAGE value="项目list变更" />
+    <option name="LAST_COMMIT_MESSAGE" value="项目list变更" />
   </component>
 </project>
