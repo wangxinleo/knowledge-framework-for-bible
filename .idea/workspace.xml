@@ -4,15 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe98522e-6fbf-4174-9ef7-67900948b461" name="默认的" comment="项目list变更">
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/stemp5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/stemp6.png" afterDir="false" />
+    <list default="true" id="fe98522e-6fbf-4174-9ef7-67900948b461" name="默认的" comment="更新4项认领地址，增加list说明，重构list页面">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/img/issue2.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/img/issue2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/mind/old/Genesis/创世纪.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/mind/old/Genesis/创世纪.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/mind/old/Genesis/创世纪.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/mind/old/Genesis/创世纪.xmind" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/list/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/list/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/plan/guide.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/plan/guide.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +56,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/.vuepress/public/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/.vuepress/public" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -71,6 +69,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\knowledge-framework-for-bible-blog\docs\.vuepress\public" />
       <recent name="D:\Project\knowledge-framework-for-bible-blog\docs\.vuepress\public\img" />
       <recent name="C:\Users\WZ\WebstormProjects\knowledge-framework-for-bible\docs\.vuepress\public\mind" />
       <recent name="C:\Users\WZ\WebstormProjects\knowledge-framework-for-bible\docs\.vuepress\public\img" />
@@ -133,7 +132,8 @@
       <workItem from="1608273520613" duration="217000" />
       <workItem from="1608273745412" duration="6510000" />
       <workItem from="1608281796517" duration="2357000" />
-      <workItem from="1608342660084" duration="4220000" />
+      <workItem from="1608342660084" duration="5063000" />
+      <workItem from="1608538139193" duration="1103000" />
     </task>
     <task id="LOCAL-00001" summary="删除部分无用内容">
       <created>1608272207470</created>
@@ -184,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608284061477</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="更新4项认领地址，增加list说明，重构list页面">
+      <created>1608347408055</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1608347408055</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -237,6 +244,7 @@
     <MESSAGE value="开源项目网站V0.0.2 &#10;修正图片链接" />
     <MESSAGE value="修正readme的已知错误" />
     <MESSAGE value="项目list变更" />
-    <option name="LAST_COMMIT_MESSAGE" value="项目list变更" />
+    <MESSAGE value="更新4项认领地址，增加list说明，重构list页面" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新4项认领地址，增加list说明，重构list页面" />
   </component>
 </project>

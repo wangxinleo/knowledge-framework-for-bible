@@ -17,7 +17,7 @@ module.exports = {
         ]
     ],
     themeConfig: {
-        logo: '/img/holy-bible.png',
+        logo: '/logo/logo2.png',
         nav: [
             {text: '主页', link: '/'},
             {text: '0.x', link: '/book/'},

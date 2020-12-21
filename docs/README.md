@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /img/holy-bible.png
+heroImage: /logo/logo2.png
 heroText: 圣经脑图
 tagline: Knowledge Framework for Bible
 actionText: 快速阅读 →
@@ -25,7 +25,7 @@ footer:  CC-BY-NC-SA-4.0 Licensed | Copyright © 2021-present 《圣经脑图》
 
 ## 最新更新
 
- [  旧约圣经  |  创世纪  |  2020-12-19  |  完成度：30%  ](/book/Genesis.md)
+ [  旧约圣经  |  创世纪  |  2020-12-19  |  完成度：50%  ](/book/Genesis.md)
 
 
 
