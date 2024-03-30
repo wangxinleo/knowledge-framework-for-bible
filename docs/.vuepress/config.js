@@ -26,22 +26,36 @@ module.exports = {
         logo: '/logo/logo2.png',
         nav: [
             {text: '主页', link: '/'},
-            {text: '0.x', link: '/book/'},
-            {text: '介绍', link: '/desc/'},
-            {text: '目录', link: '/list/'},
-            {text: '编写计划', link: '/plan/'},
+            {text: '项目简介', link: '/desc/'},
+            {
+                text: '开始阅读',
+                items: [
+                    {text: '食用指南', link: '/book/'},
+                    {text: '旧约圣经', link: '/book/Genesis.md'},
+                ]
+            },
+            {
+                text: '加入我们',
+                items: [
+                    {text: '快速引导', link: '/plan/'},
+                    {text: '章节认领', link: '/list/'},
+                    {text: '编写指南', link: '/plan/guide.md'},
+                    {text: '编写规范', link: '/plan/standard.md'},
+                ]
+            },
             {text: '协作仓库', link: 'https://github.com/wangxinleo/knowledge-framework-for-bible'},
         ],
         sidebar: {
             '/book/': [
+                '',
                 {
                     title: '旧约圣经',
-                    displayAllHeaders: true,
+                    displayAllHeaders: false,
                     children: [
-                        ['/book/Genesis.md', '创世记'],
-                        ['/book/Exodus.md', '出埃及记'],
-                        ['/book/Leviticus.md', '利未记'],
-                        ['/book/Numbers.md', '民数记']
+                        'Genesis.md',
+                        'Exodus.md',
+                        'Leviticus.md',
+                        'Numbers.md',
                     ]
                 },
             ],

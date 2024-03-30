@@ -34,7 +34,7 @@
    
    <img :src="$withBase('/img/invitation.png')">
 
-2. 从目录中选择自己想要参与编写的部分后，前往 [Issue 页面](https://github.com/wangxinleo/knowledge-framework-for-bible/issues) 进行内容认领。
+2. 从 [章节认领](/list/) 中选择自己想要参与编写的部分后，前往 [Issue 页面](https://github.com/wangxinleo/knowledge-framework-for-bible/issues) 进行内容认领。
 
    <img :src="$withBase('/img/stemp6.png')">
    
@@ -42,12 +42,12 @@
    
    <img :src="$withBase('/img/issue2.png')">
 
-4. 确认领取后，可以到网站 [目录](/list/) 进入相应的文件夹。完成编写后，选择仓库中对应部分的文件夹通过 `在线提交`  ，将编辑好的*.xmind文件或*.md文档上传，审查团队将会对内容进行格式规范初审，通过后将会对 PR 进行合并，并发布你的作品，对应 Issue 进入 **「需补充」** 或 **「已完成」** 状态。
+4. 确认领取后，可以到网站 [章节认领](/list/) 进入相应的文件夹。完成编写后，选择仓库中对应部分的文件夹通过 `在线提交`  ，将编辑好的*.xmind文件或*.md文档上传，审查团队将会对内容进行格式规范初审，通过后将会对 PR 进行合并，并发布你的作品，对应 Issue 进入 **「需补充」** 或 **「已完成」** 状态。
    
 
    **如何找到提交文档的地方？**
 
-   进入 [目录](https://wangxinleo.github.io/knowledge-framework-for-bible/list/) 后找到下图
+   进入 [章节认领](https://wangxinleo.github.io/knowledge-framework-for-bible/list/) 后找到下图
    <img :src="$withBase('/img/stemp5.png')">
    
    **如何提交文档？**
