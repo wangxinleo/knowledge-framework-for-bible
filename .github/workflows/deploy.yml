@@ -7,6 +7,7 @@ on:
     paths-ignore: # 下列文件的变更不触发部署，可以自行添加
       - README.md
       - LICENSE
+  workflow_dispatch:
   pull_request:
     branches:
       - blog # 只在source_code上push触发部署
