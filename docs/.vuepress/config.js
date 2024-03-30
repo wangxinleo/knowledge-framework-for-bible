@@ -2,6 +2,12 @@ module.exports = {
     title: '圣经脑图',
     description: 'Powerful offline Bible Study tool',
     base:'/knowledge-framework-for-bible/',
+    head: [
+        [
+            'link', // 设置 favicon.ico，注意图片放在 public 文件夹下
+            { rel: 'icon', href: 'favicon.ico' }
+        ]
+    ],
     plugins: [
         [
             'vuepress-plugin-comment',
