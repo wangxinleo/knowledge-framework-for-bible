@@ -25,11 +25,11 @@ footer:  CC-BY-NC-SA-4.0 Licensed | Copyright © 2021-present 《圣经脑图》
 
 ## 最新更新
 
- [  旧约圣经  |  创世纪  |  2020-12-19  |  完成度：50%  ](/book/Genesis.md)
+ [  旧约圣经  |  创世记  |  2020-12-19  |  完成度：50%  ](/book/Genesis.md)
 
 
 
 ## 参与讨论
 
-欢迎来到仓库 [Issue](https://gitee.com/wangxin_leo/knowledge-framework-for-bible/issues/I2A0HT) 留言区进行踊跃留言，留下你宝贵的意见，帮助我们走得更远，做得更好。
+欢迎来到仓库 [Issue](https://github.com/wangxinleo/knowledge-framework-for-bible/issues/I2A0HT) 留言区进行踊跃留言，留下你宝贵的意见，帮助我们走得更远，做得更好。
 

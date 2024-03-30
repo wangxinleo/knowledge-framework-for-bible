@@ -1,4 +1,4 @@
-# 创世纪
+# 创世记
 
 ## 文件下载
 :::tip 如何使用？
@@ -13,16 +13,16 @@
  - 源文件
 
 ::: tip 点击下方链接，下载文件
- [>>> 创世纪.xmind <<<](/mind/Genesis/old/创世纪.xmind)
+ [>>> 创世记.xmind <<<](/mind/Genesis/old/创世记.xmind)
 :::
 
  - 大图浏览 
 
-<img :src="$withBase('/mind/old/Genesis/创世纪.png')">
+<img :src="$withBase('/mind/old/Genesis/创世记.png')">
 
 ## 知识点索引
 ```js
-- 创世纪
+- 创世记
     - 神的创造(1:1-2:3)
         - 创世之前
             - 空虚混沌，渊面黑暗

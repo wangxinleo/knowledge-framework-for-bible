@@ -29,12 +29,12 @@
 
 1. **扫码** 或点击链接加入创作者行列。
    
-   - **点击** 这里获取-> [gitee仓库邀请链接](https://gitee.com/wangxin_leo/knowledge-framework-for-bible/invite_link?invite=b8dcdb99f28b13d6c7a275b5a2c9cf713f332380fed12df1b7993663152babc5cd58f6e1512804d05f318cd36bbddc3a)
+   - **点击** 这里获取-> [gitee仓库邀请链接](https://github.com/wangxinleo/knowledge-framework-for-bible/invite_link?invite=b8dcdb99f28b13d6c7a275b5a2c9cf713f332380fed12df1b7993663152babc5cd58f6e1512804d05f318cd36bbddc3a)
    - **扫码** 加入->
    
    <img :src="$withBase('/img/invitation.png')">
 
-2. 从目录中选择自己想要参与编写的部分后，前往 [Issue 页面](https://gitee.com/wangxin_leo/knowledge-framework-for-bible/issues) 进行内容认领。
+2. 从目录中选择自己想要参与编写的部分后，前往 [Issue 页面](https://github.com/wangxinleo/knowledge-framework-for-bible/issues) 进行内容认领。
 
    <img :src="$withBase('/img/stemp6.png')">
    

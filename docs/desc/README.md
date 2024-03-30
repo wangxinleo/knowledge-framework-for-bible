@@ -25,7 +25,7 @@ sidebar: auto
     
 [《圣经脑图》食用指南](/book/)
 
-[《圣经脑图》创世纪demo](/book/Genesis.md)
+[《圣经脑图》创世记demo](/book/Genesis.md)
 
 虽然现在《圣经脑图》还是起步初创阶段，但仍然希望你可以对我们的项目抱有期待。
 

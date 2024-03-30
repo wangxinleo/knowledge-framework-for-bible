@@ -24,7 +24,7 @@ module.exports = {
             {text: '介绍', link: '/desc/'},
             {text: '目录', link: '/list/'},
             {text: '编写计划', link: '/plan/'},
-            {text: '协作仓库', link: 'https://gitee.com/wangxin_leo/knowledge-framework-for-bible'},
+            {text: '协作仓库', link: 'https://github.com/wangxinleo/knowledge-framework-for-bible'},
         ],
         sidebar: {
             '/book/': [
@@ -32,7 +32,7 @@ module.exports = {
                     title: '旧约圣经',
                     displayAllHeaders: true,
                     children: [
-                        ['/book/Genesis.md', '创世纪'],
+                        ['/book/Genesis.md', '创世记'],
                         ['/book/Exodus.md', '出埃及记'],
                         ['/book/Leviticus.md', '利未记'],
                         ['/book/Numbers.md', '民数记']
