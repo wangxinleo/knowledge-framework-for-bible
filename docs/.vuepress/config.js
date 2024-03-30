@@ -25,32 +25,32 @@ module.exports = {
     themeConfig: {
         logo: '/logo/logo2.png',
         nav: [
-            {text: '主页', link: '/'},
-            {text: '项目简介', link: '/desc/'},
+            {text: '🏠 主页', link: '/'},
+            {text: '📑 项目简介', link: '/desc/'},
             {
-                text: '开始阅读',
+                text: '📚 开始阅读',
                 items: [
-                    {text: '食用指南', link: '/book/'},
-                    {text: '旧约圣经', link: '/book/Genesis.md'},
+                    {text: '👉 食用指南', link: '/book/'},
+                    {text: '📕 旧约圣经', link: '/book/Genesis.md'},
                 ]
             },
             {
-                text: '加入我们',
+                text: '👫加入我们',
                 items: [
-                    {text: '快速引导', link: '/plan/'},
-                    {text: '章节认领', link: '/list/'},
-                    {text: '编写指南', link: '/plan/guide.md'},
-                    {text: '编写规范', link: '/plan/standard.md'},
+                    {text: '👉 快速引导', link: '/plan/'},
+                    {text: '📝 章节认领', link: '/list/'},
+                    {text: '👉 编写指南', link: '/plan/guide.md'},
+                    {text: '📑 编写规范', link: '/plan/standard.md'},
                 ]
             },
-            {text: '协作仓库', link: 'https://github.com/wangxinleo/knowledge-framework-for-bible'},
+            { text: '❓ Q&A', link: '/QFA/'},
+            {text: '👭 协作仓库', link: 'https://github.com/wangxinleo/knowledge-framework-for-bible'},
         ],
         sidebar: {
             '/book/': [
                 '',
                 {
                     title: '旧约圣经',
-                    displayAllHeaders: false,
                     children: [
                         'Genesis.md',
                         'Exodus.md',
@@ -63,6 +63,9 @@ module.exports = {
                 '',
                 'guide',
                 'standard'
+            ],
+            '/list/': [
+                '',
             ]
         }
     }

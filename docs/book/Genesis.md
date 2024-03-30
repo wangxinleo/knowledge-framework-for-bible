@@ -1,28 +1,18 @@
 # 创世记
 
 ## 文件下载
-:::tip 如何使用？
-1.电脑用户点击此链接，下载 [Xmind2020](https://www.xmind.cn/xmind2020/) 打开下述文件。
-
-2.手机用户点击此链接，下载 [Xmind移动版](https://a.app.qq.com/o/simple.jsp?pkgname=net.xmind.doughnut) 打开下述文件。
-
-3.您也可以直接保存以下图片，在本地放大查看
- - 手机用户：长按图片保存；
- - 电脑用户：右键图片，选择【图片另存为】或【在新标签页中查看】；
-:::
- - 源文件
 
 ::: tip 点击下方链接，下载文件
 
-<a :href="$withBase('/mind/old/Genesis/Genesis.xmind')" > >>> 创世记.xmind <<< </a>
+<a :href="$withBase('/mind/old/Genesis/Genesis.xmind')" > 📃创世记.xmind </a>
 
 :::
 
- - 大图浏览 
+## 大图浏览
 
 <img :src="$withBase('/mind/old/Genesis/Genesis.png')">
 
-## 知识点索引
+## 索引
 ```js
 - 创世记
     - 神的创造(1:1-2:3)

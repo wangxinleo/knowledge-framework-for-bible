@@ -7,11 +7,17 @@
 
 ### 格式
 
-* 文章格式使用 [Markdown](https://commonmark.org/help/)
+::: tip
+如果您愿意参与，可以提交任何形式的作品到仓库中，期待弟兄姐妹的服侍~❤️
+:::
 
-* 脑图格式使用 [*.xmind](https://www.xmind.cn/xmind2020/)
+* 现在你们可以根据自己拥有的资料和特长，自由提交你们能想到的内容了！
 
-* 文章格式需符合 [编写规范](/plan/standard.md)
+* ~~文章格式使用 [Markdown](https://commonmark.org/help/)~~
+
+* ~~脑图格式使用 [*.xmind](https://www.xmind.cn/xmind2020/)~~
+
+* ~~文章格式需符合 [编写规范](/plan/standard.md)~~
 
 ### 内容
 
