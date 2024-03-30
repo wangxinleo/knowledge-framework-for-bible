@@ -13,12 +13,14 @@
  - 源文件
 
 ::: tip 点击下方链接，下载文件
- [>>> 创世记.xmind <<<](/mind/Genesis/old/创世记.xmind)
+
+<a :href="$withBase('/mind/old/Genesis/Genesis.xmind')" > >>> 创世记.xmind <<< </a>
+
 :::
 
  - 大图浏览 
 
-<img :src="$withBase('/mind/old/Genesis/创世记.png')">
+<img :src="$withBase('/mind/old/Genesis/Genesis.png')">
 
 ## 知识点索引
 ```js

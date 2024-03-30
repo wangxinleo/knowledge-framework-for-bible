@@ -42,24 +42,27 @@
    
    <img :src="$withBase('/img/issue2.png')">
 
-4. 确认领取后，可以到网站 [目录](/list/) 进入相应的文件夹。完成编写后，选择仓库中对应部分的文件夹进行 **[轻量级 PR](https://gitee.com/help/articles/4291)** ，将编辑好的*.xmind文件或*.md文档以，审查团队将会对内容进行格式规范初审，通过后将会对 PR 进行合并，并发布你的作品，对应 Issue 进入 **「需补充」** 或 **「已完成」** 状态。
+4. 确认领取后，可以到网站 [目录](/list/) 进入相应的文件夹。完成编写后，选择仓库中对应部分的文件夹通过 `在线提交`  ，将编辑好的*.xmind文件或*.md文档上传，审查团队将会对内容进行格式规范初审，通过后将会对 PR 进行合并，并发布你的作品，对应 Issue 进入 **「需补充」** 或 **「已完成」** 状态。
    
+
    **如何找到提交文档的地方？**
-   
-   - 方式一
+
+   进入 [目录](https://wangxinleo.github.io/knowledge-framework-for-bible/list/) 后找到下图
    <img :src="$withBase('/img/stemp5.png')">
-
-   - 方式二
-   <img :src="$withBase('/img/stemp1.png')">
-
-   <img :src="$withBase('/img/stemp2.png')">
-   
    
    **如何提交文档？**
-   
+
+   - gitee 网站
+
    <img :src="$withBase('/img/stemp3.png')">
 
    <img :src="$withBase('/img/stemp4.png')">
+
+   - github 网站
+
+   <img :src="$withBase('/img/README/add-file.png')" />
+
+   <img :src="$withBase('/img/README/choose-files.png')" />
    
    
 
