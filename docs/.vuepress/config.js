@@ -31,11 +31,12 @@ module.exports = {
                 text: '📚 开始阅读',
                 items: [
                     {text: '👉 食用指南', link: '/book/'},
+                    {text: '📑 目录', link: '/book/List.md'},
                     {text: '📕 旧约圣经', link: '/book/Genesis.md'},
                 ]
             },
             {
-                text: '👫加入我们',
+                text: '👫 加入我们',
                 items: [
                     {text: '👉 快速引导', link: '/plan/'},
                     {text: '📝 章节认领', link: '/list/'},
@@ -49,6 +50,7 @@ module.exports = {
         sidebar: {
             '/book/': [
                 '',
+                'List.md',
                 {
                     title: '旧约圣经',
                     children: [
