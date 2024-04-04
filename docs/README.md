@@ -3,8 +3,12 @@ home: true
 heroImage: /logo/logo2.png
 heroText: 圣经脑图
 tagline: Knowledge Framework for Bible
-actionText: 快速阅读 →
-actionLink: /desc/
+
+actions:
+  - text: 快速阅读 →
+    link: /desc/
+    type: primary
+
 
 features:
 - title: 简洁至上
@@ -19,9 +23,16 @@ footer:  CC-BY-NC-SA-4.0 Licensed | Copyright © 2021-present 《圣经脑图》
 
 ## 📣 最新更新
 
-**2024-03-31**
+**2024-04-04**
 
 - [  旧约圣经  |  创世记  |  2024-03-31  |  完成度：32%  ](/book/Genesis.md)
+
+- 网站更新 | wangxinleo | feat(代码更新):
+
+  - 更换新架构
+  - 加入全文搜索
+
+**2024-03-31**
 
 - 网站更新 | wangxinleo | feat(代码更新):
 

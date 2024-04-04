@@ -1,6 +1,6 @@
 {
   "name": "knowledge-framework-for-bible",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Powerful offline Bible Study tool",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,15 @@
   "author": "",
   "license": "CC-BY-NC-SA-4.0",
   "devDependencies": {
-    "vuepress": "^1.7.1"
-  },
-  "dependencies": {}
+    "@vuepress/bundler-vite": "^2.0.0-rc.8",
+    "@vuepress/client": "^2.0.0-rc.8",
+    "@vuepress/plugin-back-to-top": "^2.0.0-rc.11",
+    "@vuepress/plugin-copy-code": "^2.0.0-rc.11",
+    "@vuepress/plugin-prismjs": "^2.0.0-rc.11",
+    "@vuepress/plugin-register-components": "^2.0.0-rc.11",
+    "@vuepress/theme-default": "^2.0.0-rc.11",
+    "@vuepress/utils": "^2.0.0-rc.0",
+    "vuepress": "^2.0.0-rc.8",
+    "vuepress-plugin-full-text-search2": "^0.4.0"
+  }
 }
